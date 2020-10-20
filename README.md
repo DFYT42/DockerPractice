@@ -1,2 +1,2 @@
 # DockerPractice
-Scripts for practicing Docker
+These are scripts for practicing Docker commands.
